@@ -10,15 +10,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)  
 
 ### 🌟 Featured Projects
-**MiMalla** - Free academic planning tool for students  
-🔗 [mimalla.vercel.app](https://mimalla.vercel.app)  
-**Portfolio** - My dev playground & project showcase  
-🔗 [bastianbecker.vercel.app](https://bastianbecker.vercel.app)
+🔗 [**MiMalla**](https://mimalla.vercel.app) - Free academic planning tool for students  
+🔗 [**Portfolio**](https://bastianbecker.vercel.app) - My dev playground & project showcase
 
 ### 📚 Currently Learning
 - Data Science fundamentals
 - Python for analytics
-- Vectorial Databases
+- Vector Databases
 
 <!-- 
 ### 📈 GitHub Stats
