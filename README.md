@@ -1,26 +1,28 @@
-<!--
-**Jnkyns/jnkyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Bastián Becker 👋
 
-Here are some ideas to get you started:
+🇨🇱 Industrial Civil Engineering Student | 23 years old  
+🚀 Full-Stack Developer passionate about building impactful tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack
+**Core:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)  
+
+### 🌟 Featured Projects
+**MiMalla** - Free academic planning tool for students  
+🔗 [mimalla.vercel.app](https://mimalla.vercel.app)  
+**Portfolio** - My dev playground & project showcase  
+🔗 [bastianbecker.vercel.app](https://bastianbecker.vercel.app)
+
+### 📚 Currently Learning
+- Data Science fundamentals
+- Python for analytics
+- Vectorial Databases
+
+<!-- 
+### 📈 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnkyns&show_icons=true&theme=dark)](https://github.com/jnkyns)
 -->
 
-<h1 align="center">Hi 👋, I'm Bastián</h1>
-
-- 🔭 I’m currently working on **MiMalla**
-
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bastianaviles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastianaviles" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/bastianbeckeru) | [Portfolio Contact](https://bastianbecker.vercel.app/contact)
